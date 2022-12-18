@@ -5,8 +5,8 @@ CC
 CCC
 */
 
-let char = current = "C"
-let count_rows = 100
+const char = current = "C"
+const count_rows = 100
 
 
 for (let i = 0; i < count_rows; i++) {
