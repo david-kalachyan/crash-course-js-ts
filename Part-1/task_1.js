@@ -1,3 +1,9 @@
+/*
+1. Write a program which will print to console N rows of a specific char, like this (char = 'C', N = 3):
+C
+CC
+CCC
+*/
 
 let char = current = "C"
 let count_rows = 100
